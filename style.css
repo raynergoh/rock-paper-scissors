@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+#buttons {
+    margin: 10px;
+}
+
+
+#results {
+    margin-top: 20px;
+}
+
+#restart {
+    margin-top: 15px;
+}
